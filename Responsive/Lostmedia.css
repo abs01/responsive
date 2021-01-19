@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+ 
+}
+
+.pager {
+margin-top:14%;
+position: relative;
+
+
+}
+.img-rounded {
+ margin-left: 35%;
+ width: 35%;
+height: 35%;
+
+@media (min-width: 768px) {
+.collapse {
+      display: block;
+      height: auto !important;
+      visibility: visible;
+    }
+  }
+}
+.img-thumbnail {
+
+width: 25%;
+height: 25%;
+margin-right:5%;
+
+}
+iframe {
+    margin-left:36%;
+    height: 25%;
+    width: 25%;
+    margin-top: 1% ;
+    position: relative;;
+}
+.homep {
+    margin-top:10%; 
+    position: relative;
+    float: right;
+ margin-right: 5%;
+}
+.pager  {
+    margin-top:10%; 
+    position: relative;
+
+}
+
+.previous {
+    float: left;
+    margin-left: 5%;
+    position: relative;
+
+}
+
+.next {
+    float: right;
+    margin-right: 5%;
+    position: relative;
+
+
+}
+#gform {
+    color: black;
+    float: left;
+    position: relative;
+    text-align: center;
+    margin-top: 1%;
+}
+
+#sherlock {
+    float: left;
+    bottom: 55%;
+    position: relative;
+}
+
+.dropdown {
+    color: white;
+    margin: auto;
+    position: relative;
+    text-align: center;
+
+}
+.dropdown-menu{
+  margin-left: 45%;
+
+}
+
+#centro {
+    text-align: center;
+    color: blue;
+}
+
+
+
+
+
+.table  {
+    color: green;
+}
